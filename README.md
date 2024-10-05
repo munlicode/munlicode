@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @munlicode
+- 👋 Hi, I’m Nurzhan
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning API integrations
 - 💞️ I’m looking to collaborate on any project
