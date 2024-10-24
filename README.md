@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning API integrations
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me via email raya.naya.lovie@gmail.com or telegram: @munlicode
+- 📫 How to reach me via email nurzhanmuratkhan@gmail.com or telegram: @nurzhan_muratkhan
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
