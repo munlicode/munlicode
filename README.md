@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nurzhan
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning API integrations
+- 🌱 I’m currently doing API integrations
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me via email nurzhanmuratkhan@gmail.com or telegram: @nurzhan_muratkhan
 - 😄 Pronouns: ...
