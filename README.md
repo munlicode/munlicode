@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Nurzhan
-- 👀 I’m interested in backend development
-- 🌱 I’m currently doing API Integration 
-<!---
-munlicode/munlicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ich&&ZWNobz1udWxs; ♥\u2260frei; bitte↦d2FpdA==; U2lsZW5jZT4vLzsgcGxzLg==
