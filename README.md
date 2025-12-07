@@ -7,15 +7,9 @@
 
 ---
 
-### 🌐 The Sanctuary: munlicode
+### 🌐 [The Sanctuary: munlicode](https://munlicode.kreoza.com)
 
-<div align="center">
- <a href="https://munlicode.kreoza.com" target="_blank">
-  <img src="site-demo.gif" alt="MunliCode Website Preview" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5); border: 1px solid #333;" />
- </a>
- <br/>
- <b>Click the window above to enter the system.</b>
-</div>
+<b>Click to enter the system.</b>
 
 ---
 
