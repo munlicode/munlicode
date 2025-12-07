@@ -32,7 +32,7 @@ My work is grounded in **Stoicism** and **Clean Architecture**. I specialize in 
 ---
 
 ### My Contribution snake
-![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/munlicode/munlicode/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📈 The Metrics
