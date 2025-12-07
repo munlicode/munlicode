@@ -34,6 +34,11 @@ My work is grounded in **Stoicism** and **Clean Architecture**. I specialize in 
 ### My Contribution snake
 ![Contribution snake example](https://github.com/munlicode/munlicode/blob/main/github-contribution-grid-snake.svg)
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
+  <img alt="github‑snake" src="output/github-snake.svg" />
+</picture>
 
 ### 📈 The Metrics
 
