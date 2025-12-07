@@ -7,7 +7,7 @@
 
 ---
 
-### 🌐 The Sanctuary: MunliCode
+### 🌐 The Sanctuary: munlicode
 
 <div align="center">
  <a href="https://munlicode.kreoza.com" target="_blank">
@@ -31,12 +31,8 @@ My work is grounded in **Stoicism** and **Clean Architecture**. I specialize in 
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/munlicode/munlicode/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
-
+### My Contribution snake
+![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📈 The Metrics
