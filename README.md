@@ -31,7 +31,6 @@ My work is grounded in **Stoicism** and **Clean Architecture**. I specialize in 
 </picture>
 
 
-### 📈 Belief
 
 <div align="center">
   <br/>
