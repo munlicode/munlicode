@@ -31,12 +31,7 @@ My work is grounded in **Stoicism** and **Clean Architecture**. I specialize in 
 </picture>
 
 
-### 📈 The Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munlicode&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munlicode&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="languages graph" />
-</div>
+### 📈 Belief
 
 <div align="center">
   <br/>
