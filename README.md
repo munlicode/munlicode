@@ -7,8 +7,9 @@
 
 ---
 
-### 🌐 [The Sanctuary: munlicode](https://munlicode.kreoza.com)
+### Tech Portfolio [: munlicode](https://munlicode.kreoza.com)
 
+### My Base [: nurzhanmuratkhan](https://nurzhanmuratkhan.kreoza.com)
 <b>Click to enter the system.</b>
 
 ---
