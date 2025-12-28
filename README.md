@@ -7,23 +7,13 @@
 
 ---
 
-### Tech Portfolio [: munlicode](https://munlicode.kreoza.com)
-
-### My Base [: nurzhanmuratkhan](https://nurzhanmuratkhan.kreoza.com)
-<b>Click to enter the system.</b>
+### Check this out (https://munlicode.kreoza.com) 
+:D 
 
 ---
-
-### 🏛 The OS & The Arsenal
-
-My work is grounded in **Stoicism** and **Clean Architecture**. I specialize in Python and backend systems that survive chaos.
-
-| **Architecture** | **Stack** | **Tools** |
-| :--- | :--- | :--- |
-| **Clean Arch** | Python, FastAPI, Django | Docker, Traefik |
-| **GraphQL** | Strawberry, Apollo | GitHub Actions |
-| **Frontend** | Astro, React, ElectronJS | Linux (Ubuntu/UFW) |
-
+### All I do is being myself. 
+### I am a water. 
+### I consume, I create, I deliver, I relax and much more...
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
