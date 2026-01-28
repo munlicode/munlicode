@@ -31,3 +31,6 @@ If you have an interest you can check out my developer webpage on https://munlic
   <br/>
   <em>"I am better today, if I respected myself more than I respected my fears."</em>
 </div>
+
+# 📊 Stats ?
+![](https://nirzak-streak-stats.vercel.app/?user=munlicode&theme=dracula&hide_border=false)<br/>
