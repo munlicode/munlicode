@@ -12,6 +12,12 @@
 
 I believe there is more to software than meets the eye. I love developing, and I take a lot of time to think on why and how I design. I love thinking about life and ideas, and knowledge in software makes my thoughts cleaner.
 
+<br>
+
+### 🛠️ What I am building now?
+
+If you're curious about what I'm currently working on, you can follow my journey here: [munlicode.kreoza.com](https://munlicode.kreoza.com)
+
 ---
 
 ### 🔁 Life ⇄ Software
