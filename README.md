@@ -12,6 +12,14 @@
 
 I believe there is more to software than meets the eye. I love developing, and I take a lot of time to think on why and how I design. I love thinking about life and ideas, and knowledge in software makes my thoughts cleaner.
 
+---
+
+### 🔁 Life ⇄ Software
+
+> "Once, there was a developer who believed in the **'Hero Model.'** He would clean every dish in the shared kitchen, fix every minor bug, and carry every burden. He felt indispensable... until he caught a fever."
+>
+> **Read the story: [Dishes, Databases, and the Art of Failover](analogies/failover-and-responsibility.md)**
+
 <br>
 <br>
 
