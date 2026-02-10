@@ -45,12 +45,6 @@ If you're curious about what I'm currently working on, you can follow my journey
 
 <br>
 
-### Stats?
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=munlicode&theme=dracula&hide_border=false" alt="Streak Stats" />
-</p>
-
 ---
 
 ### 🤝 Let's Build Meaningful Things
