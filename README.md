@@ -8,36 +8,29 @@
 
 ---
 
-### 🧠 The Philosophy
+### ¯\_(ツ)_/¯ Mindy
 
-I believe there is more to software than meets the eye. I love developing, and I take a lot of time to think on why and how I design. I love thinking about life and ideas, and knowledge in software makes my thoughts cleaner.
+I believe there is more to _software than meets the eye_. I *love* developing, and I take a lot of time to think on *why* and *how* I design. I love thinking about _life_ and _ideas_, and knowledge in software makes my thoughts _cleaner_.
 
 <br>
 
-### 🛠️ What I am building now?
+Right now, I am working on a few things. I am kind of interested to build a system that helps to be happier. Complexity creates friction, so at some point I came to the thought that the simpler the thing, the easier it is to be happy and not only. Just imagine, `Is it an excuse to say that environment is guilty for bad results? Yes and No, but `[it is your life](https://www.youtube.com/watch?v=m5vfng33SVE)`. Environment dictates what resources you have, but you decide what you do.`
 
-If you're curious about what I'm currently working on, you can follow my journey here: [munlicode.kreoza.com](https://munlicode.kreoza.com)
+> It is our choices, Harry, that show what we truly are, far more than our abilities.
+> 
+> Albus Dumbledore
+
+Ohh my, I started again, so whatever. If you want to talk about it or just get what I think, you can check my [YouTube](https://youtube.com/@jurkeylow)
 
 ---
 
-### 🔁 Life ⇄ Software
+### 📖 A Story to read
 
 > "Once, there was a developer who believed in the **'Hero Model.'** He would clean every dish in the shared kitchen, fix every minor bug, and carry every burden. He felt indispensable... until he caught a fever."
 >
 > **Read the story: [Dishes, Databases, and the Art of Failover](analogies/failover-and-responsibility.md)**
 
 <br>
-<br>
-
-### Consistency?
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
-</p>
 
 <p align="center">
   <em>"All I do is being myself. I am a water. I consume, I create, I deliver, I relax and much more..."</em>
@@ -47,21 +40,13 @@ If you're curious about what I'm currently working on, you can follow my journey
 
 ---
 
-### 🤝 Let's Build Meaningful Things
+### 🤝 Let's Be Friends
 
 > "The best way to predict the future is to create it."
 
 I'm always open to collaborating on projects that simplify life, solve real problems, or just bring joy. Whether it's a small tool or a grand idea, if it's built with purpose, I'm interested.
 
-**Want to build something?** Opening an issue or a PR is the best way to start a conversation.
-
-### ☕ Digital Coffee & Philosophy
-
-Code is just one way I express my thoughts. I love talking about philosophy, life design, and the "why" behind what we build.
-
-- **Want to talk tech?** Let's discuss architecture and clean code.
-- **Want to talk life?** Let's discuss happiness and the pursuit of meaning.
-- **Just want to say hi?** I'm always down for a virtual coffee, though I mostly drink water.
+**Want to build something?** Comment on YouTube or open PR, it is the fastest way to get my attention. ~I am usually offline, unless I have a purpose to open social media~
 
 <br>
 
