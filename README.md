@@ -2,7 +2,7 @@
   <h1>I am a happy person :D</h1>
   <p>
     <br>
-    <em>"My mission is to be happy. I solve problems, simplify things, create new things and create better future, while living my life and having joy in present, and reflecting on the past memories."</em>
+    <em>"My mission is to be happy."</em>
   </p>
 </div>
 
@@ -10,7 +10,7 @@
 
 ### ¯\_(ツ)_/¯ Mindy
 
-I believe there is more to _software than meets the eye_. I *love* developing, and I take a lot of time to think on *why* and *how* I design. I love thinking about _life_ and _ideas_, and knowledge in software makes my thoughts _cleaner_.
+I believe there is more to _software than meets the eye_. I *love* developing, and I take a lot of time to think on *why* and *how*. Software experience makes my thoughts _cleaner_.
 
 <br>
 
