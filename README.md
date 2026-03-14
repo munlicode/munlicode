@@ -58,5 +58,5 @@ I'm always open to collaborating on projects that simplify life, solve real prob
 <br>
 
 <div align="center">
-\ Jack of all trades /
+| _Jack of all trades_ |
 </div>
