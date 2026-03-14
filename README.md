@@ -12,13 +12,17 @@ I believe there is more to _software than meets the eye_. I *love* developing, a
 
 <br>
 
-Right now, I am working on a few things. I am kind of interested to build a system that helps to be happier. Complexity creates friction, so at some point I came to the thought that the simpler the thing, the easier it is to be happy and not only. Just imagine, `Is it an excuse to say that environment is guilty for bad results? Yes and No, but `[it is your life](https://www.youtube.com/watch?v=m5vfng33SVE)`. Environment dictates what resources you have, but you decide what you do.`
+Complexity creates friction, so at some point I came to the thought that the simpler the thing, the easier it is to be happy and not only that.
+
+Question to you: `Is it an excuse to say that environment is guilty for bad results?`
+
+I would say: `Yes and No, but `[it is your life](https://www.youtube.com/watch?v=m5vfng33SVE)`. Environment dictates what resources you have, but you decide what you do.`
 
 > It is our choices, Harry, that show what we truly are, far more than our abilities.
 > 
 > Albus Dumbledore
 
-Ohh my, I started again, so whatever. If you want to talk about it or just get what I think, you can check my [YouTube](https://youtube.com/@jurkeylow)
+Ohh my, I started again, so whatever. If you want to talk about it or just get what I think, you can check my [YouTube](https://youtube.com/@jurkeylow).
 
 ---
 
