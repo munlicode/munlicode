@@ -59,5 +59,5 @@ I'm always open to collaborating on projects that simplify life, solve real prob
 
 
 <div align="center">
-<i>| Jack of all trades |</i>
+| <i>Jack of all trades</i> |
 </div>
