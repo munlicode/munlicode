@@ -54,3 +54,9 @@ I'm always open to collaborating on projects that simplify life, solve real prob
   <br/>
   <em>"I am better today, if I respected myself more than I respected my fears."</em>
 </div>
+
+<br>
+
+<div align="center">
+\ Jack of all trades /
+</div>
