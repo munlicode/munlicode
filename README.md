@@ -10,7 +10,7 @@
 
 ### ¯\_(ツ)_/¯ Mindy
 
-I believe there is more to _software than meets the eye_. I *love* developing, and I take a lot of time to think on *why* and *how*. Software experience makes my thoughts _cleaner_.
+I believe there is more to _software than meets the eye_. I *love* developing, and I take a lot of time to think on *why* and *how*.
 
 <br>
 
