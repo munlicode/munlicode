@@ -57,6 +57,7 @@ I'm always open to collaborating on projects that simplify life, solve real prob
 
 <br>
 
+
 <div align="center">
-| _Jack of all trades_ |
+<i>| Jack of all trades |</i>
 </div>
