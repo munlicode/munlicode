@@ -1,6 +1,5 @@
 <div align="center">
   <p>
-    <br>
     <em>"My mission is to be happy."</em>
   </p>
 </div>
