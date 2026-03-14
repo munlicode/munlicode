@@ -24,14 +24,6 @@ I would say: `Yes and No, but `[it is your life](https://www.youtube.com/watch?v
 
 Ohh my, I started again, so whatever. If you want to talk about it or just get what I think, you can check my [YouTube](https://youtube.com/@jurkeylow).
 
----
-
-<br>
-
-<p align="center">
-  <em>"All I do is being myself. I am a water. I consume, I create, I deliver, I relax and much more..."</em>
-</p>
-
 <br>
 
 ---
