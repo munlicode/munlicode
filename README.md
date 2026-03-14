@@ -26,12 +26,6 @@ Ohh my, I started again, so whatever. If you want to talk about it or just get w
 
 ---
 
-### 📖 A Story to read
-
-> "Once, there was a developer who believed in the **'Hero Model.'** He would clean every dish in the shared kitchen, fix every minor bug, and carry every burden. He felt indispensable... until he caught a fever."
->
-> **Read the story: [Dishes, Databases, and the Art of Failover](analogies/failover-and-responsibility.md)**
-
 <br>
 
 <p align="center">
@@ -46,7 +40,7 @@ Ohh my, I started again, so whatever. If you want to talk about it or just get w
 
 > "The best way to predict the future is to create it."
 
-I'm always open to collaborating on projects that simplify life, solve real problems, or just bring joy. Whether it's a small tool or a grand idea, if it's built with purpose, I'm interested.
+I'm always open to collaborating on projects that simplify life, solve real problems, or just bring joy. Whether it's a small tool or a grand idea, if it's built with purpose, I'm all in.
 
 **Want to build something?** Comment on YouTube or open PR, it is the fastest way to get my attention. ~I am usually offline, unless I have a purpose to open social media~
 
