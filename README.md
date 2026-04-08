@@ -19,5 +19,3 @@ pls, do something, he plays the game of life...
 ### ¯\_(ツ)_/¯ Mindy
 
 > It is our choices, Harry, that show what we truly are, far more than our abilities.
-> 
-> Albus Dumbledore
