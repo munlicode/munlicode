@@ -10,12 +10,13 @@ bth, do you like garlic?
   <p>
     <em>"My mission is to be happy."</em>
   </p>
+  <br>
+  <p>
+    <em>Happy for me is to be better than I was a moment ago. It means think better, become a better, kinder person. Improve relationships, usw.</em>
+  </p>
 </div>
 
 ---
-
-pls, do something, he plays the game of life...
-
 ### ¯\_(ツ)_/¯ Mindy
 
 > It is our choices, Harry, that show what we truly are, far more than our abilities.
