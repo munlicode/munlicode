@@ -3,9 +3,7 @@
 *Developer*: `.go`, `.py`, and `.ts`.
 
 <div align="center">
-  <p>
-    <h2><em>⠠⠊⠀⠁⠍⠀⠙⠊⠎⠉⠕⠠⠑ ⠗⠑⠗</em></h1>
-  </p>
+  <h2><em>⠠⠊ ⠁⠍ ⠙⠊⠎⠉⠕⠧⠑⠗⠑⠗</em></h2>
 </div>
 
 ## _Optimus Prime_
