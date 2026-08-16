@@ -1,12 +1,24 @@
 # _Hallo :D_
 
-*Developer*: `.go`, `.py`, and `.ts`.
+*Developer*: `.go`, `.py`, `.ts` and much much more...
 
 <div align="center">
   <h2><em>⠠⠊ ⠁⠍ ⠙⠊⠎⠉⠕⠧⠑⠗⠑⠗</em></h2>
 </div>
 
-## _Optimus Prime_
+## Who Am I
 
-> Fate rarely calls upon us at a moment of our choosing.
+- Ich liebe DE 🇩🇪 jaja, ich weiss, dass es hart ist, aber doch...
+
+- I like to ~*discover*~ things. BTH, it is not only good, but also things like "what will my mom do if I ignore her for a day? what will I learn?"
+
+- I am **always open to new opportunities**. Wanna do something? _lossss geht's_
+
+## Ich kann
+
+- DE 🇩🇪 
+- EN 🏴󠁧󠁢󠁥󠁮󠁧󠁿/🇺🇸
+- KZ 🇰🇿
+- RU 🇷🇺
+
 
