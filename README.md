@@ -10,7 +10,7 @@
 
 - Ich liebe DE 🇩🇪 jaja, ich weiss, dass es hart ist, aber doch...
 
-- I like to ~*discover*~ things. BTH, it is not only good, but also things like "what will my mom do if I ignore her for a day? what will I learn?"
+- I like to ~*discover*~ things.
 
 - I am **always open to new opportunities**. Wanna do something? _lossss geht's_
 
