@@ -8,9 +8,9 @@
 
 ## Who Am I
 
-- Ich liebe DE 🇩🇪 jaja, ich weiss, dass es hart ist, aber doch...
+- Ich liebe DE 🇩🇪 
 
-- I like to ~*discover*~ things.
+- I like to ~*discover and experiment*~ things.
 
 - I am **always open to new opportunities**. Wanna do something? _lossss geht's_
 
