@@ -10,7 +10,7 @@
 
 - Ich liebe DE 🇩🇪 
 
-- I like to ~*discover and experiment*~ things.
+- I like to ~*discover and experiment*~
 
 - I am **always open to new opportunities**. Wanna do something? _lossss geht's_
 
