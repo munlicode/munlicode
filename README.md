@@ -6,6 +6,21 @@
   <h2><em>⠠⠊ ⠁⠍ ⠙⠊⠎⠉⠕⠧⠑⠗⠑⠗</em></h2>
 </div>
 
+## EDUCATION
+
+### Astana IT University, Astana, KZ Summer 2029
+- Ongoing **Bachelor of Cybersecurity** in **Astana IT University**.
+
+
+### High School-Gymnasium #17, Astana, KZ Summer 2025
+- **Graduated** with **GPA**: **4.786**
+
+## SKILLS
+- **Programming Languages:** Python, Typescript, Rust
+- **Technologies:** FastAPI, Django, React, Electron
+- **Languages:** Kazakh, Russian, English, German
+- **Certifications:** CS50P, CS50X
+
 ## Who Am I
 
 - Ich kann 🇩🇪
