@@ -17,7 +17,7 @@
 
 ## Skills
 - **Programming Languages:** Python, Typescript, Rust
-- **Technologies:** FastAPI, Django, React, Electron
+- **Technologies:** FastAPI, Django, React, Electron, PSQL, SQLite3, PWA
 - **Languages:** Kazakh, Russian, English, German
 - **Certifications:** CS50P, CS50X
 
